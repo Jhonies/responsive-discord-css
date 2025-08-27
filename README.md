@@ -5,7 +5,7 @@ Uma recriação da landing page do Discord utilizando HTML e CSS puros. Este pro
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img width="55%" height="948" alt="Captura de tela 2025-08-26 210126" src="https://github.com/user-attachments/assets/54cefeed-e8b2-4b4c-8256-1468270750ad" />
-<img width="" height="35%" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/08cf415f-f04a-40d0-8b01-a72554c7c183" />
+<img width="633" height="10%" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/08cf415f-f04a-40d0-8b01-a72554c7c183" />
 </div>
 
 
