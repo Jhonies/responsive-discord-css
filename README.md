@@ -1,7 +1,9 @@
 💻 Discord Landing Page (Recriação)
 Uma recriação da landing page do Discord utilizando HTML e CSS puros. Este projeto foi feito com o objetivo de praticar e aprimorar as habilidades em front-end, focando em estruturação semântica, estilização e responsividade.
 
-Preview: 
+Preview: <img width="1911" height="948" alt="Captura de tela 2025-08-26 210126" src="https://github.com/user-attachments/assets/a729f65c-83cf-4cee-be59-cc298c0dd7f9" />
+<img width="633" height="948" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/47b08534-2b00-4c6e-a38f-4b13d16a1ae2" />
+
 
 ✨ Funcionalidades
 
