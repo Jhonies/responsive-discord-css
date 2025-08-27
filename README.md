@@ -3,7 +3,8 @@ Uma recriação da landing page do Discord utilizando HTML e CSS puros. Este pro
 
 ## Preview:
 <img width="45%" height="948" alt="Captura de tela 2025-08-26 210126" src="https://github.com/user-attachments/assets/54cefeed-e8b2-4b4c-8256-1468270750ad" />
-<img width="45%" height="948" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/0be2a91a-2759-4c38-83b0-661c428d7332" />
+<img width="633" height="45%" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/8a8624a4-6033-4543-8be7-b3da6dd7c886" />
+
 
 
 
