@@ -2,8 +2,11 @@
 Uma recriação da landing page do Discord utilizando HTML e CSS puros. Este projeto foi feito com o objetivo de praticar e aprimorar as habilidades em front-end, focando em estruturação semântica, estilização e responsividade.
 
 ## Preview:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img width="45%" height="948" alt="Captura de tela 2025-08-26 210126" src="https://github.com/user-attachments/assets/54cefeed-e8b2-4b4c-8256-1468270750ad" />
-<img width="633" height="45%" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/8a8624a4-6033-4543-8be7-b3da6dd7c886" />
+<img width="45%" height="948" alt="Captura de tela 2025-08-26 210104" src="https://github.com/user-attachments/assets/08cf415f-f04a-40d0-8b01-a72554c7c183" />
+</div>
 
 
 
