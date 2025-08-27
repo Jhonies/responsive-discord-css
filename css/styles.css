@@ -1,0 +1,95 @@
+:root {
+  --dark: #23272A;
+  --light: #FFFFFF;
+  --gray: #F6F6F6;
+  --font-title: "Luckiest Guy", cursive;
+  --font-body: "Open Sans", sans-serif;
+}
+
+/* Reset */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: var(--font-body); color: var(--dark); line-height: 1.5; }
+
+/* Container */
+.container { width: 90%; max-width: 1200px; margin: 0 auto; }
+
+/* Hero */
+.hero {
+  background: url('../assets/img/banner.png') no-repeat center/cover;
+  color: var(--light);
+  padding: 80px 0;
+  text-align: center;
+}
+.hero h1 {
+  font-family: var(--font-title);
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-weight: 400;
+  max-width: 400px;
+  margin: 0 auto; 
+}
+.hero p { max-width: 700px; margin: 0 auto 30px; }
+.buttons { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+.btn {
+  padding: 12px 24px;
+  border-radius: 28px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.text-section {   
+  margin: 0 auto;    
+  text-align: left;  
+}
+
+.text-section h2 {
+  font-size: 40px;   
+  line-height: 1.2;  
+  margin-bottom: 16px;
+  max-width: 340px;
+}
+
+.text-section p {
+  font-size: 16px;
+  line-height: 1.5; 
+  max-width: 350px;  
+}
+
+.btn-light { background: var(--light); color: var(--dark); }
+.btn-dark { background: var(--dark); color: var(--light); }
+.btn:hover { opacity: 0.9; }
+
+/* Sections */
+.section { padding: 80px 0; }
+.section.gray h2 {font-size: 2.5rem; font-weight: 400;}
+.section.gray { background: var(--gray); }
+.section-content {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.section-content img { width: 100%; max-width: 607px; }
+.section-content h2 { font-size: 40px; margin-bottom: 16px;  font-weight: 700;}
+.section-content p { font-size: 1rem; color: rgba(35, 39, 42, 1); }
+.section-content.reverse { flex-direction: row-reverse; }
+.section-content.reverse h2 { font-weight: 700; }
+.column { text-align: center; max-width: 802px;}
+.column p { font-size: 16px; margin-top: 10px;}
+.column h2 {font-family: var(--font-title); max-width: 540px; margin: 0 auto;}
+.column img { margin-top: 20px; max-width: 784px; width: 100%; }
+
+/* Footer */
+.footer {
+  background: var(--dark);
+  padding: 40px 0;
+  text-align: center;
+}
+.footer img { width: 150px; }
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .section-content { flex-direction: column; text-align: center; }
+  .section-content.reverse { flex-direction: column; }
+  .hero h1 { font-size: 2rem; }
+}
