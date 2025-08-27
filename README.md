@@ -15,7 +15,7 @@ Uma recriação da landing page do Discord utilizando HTML e CSS puros. Este pro
 
 Design Responsivo: A página se adapta a diferentes tamanhos de tela, oferecendo uma experiência otimizada tanto em desktops quanto em dispositivos móveis.
 
-Estrutura Semântica: Uso de tags HTML como <header>, <section>, <footer> para uma melhor organização e acessibilidade do conteúdo.
+Estrutura Semântica: Uso de tags HTML como ```<header>, <section>, <footer>``` para uma melhor organização e acessibilidade do conteúdo.
 
 Estilização Moderna: Aplicação de CSS para recriar o visual limpo e moderno da página original, incluindo tipografia, cores e layout.
 
